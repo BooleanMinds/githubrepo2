@@ -1,2 +1,3 @@
 change on local as yabadabdu
 pull request change on local for conflict 
+change for conflict on local
